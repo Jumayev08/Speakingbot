@@ -21,7 +21,7 @@ from telegram.ext import (
 )
 
 # Konfiguratsiya
-TOKEN = "7684768713:AAFQvFC2PHTLVQycopDQ9fvQ6AvSwTo-oYA"
+TOKEN = "7735210198:AAGuStRzhHkJ4Z6c5HWGyLCJq3E1uA_5Jmo"
 ADMIN_ID = 7630251636
 DATA_FILE = 'data.json'
 
