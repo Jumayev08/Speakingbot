@@ -2,26 +2,5 @@
     "part1": {},
     "part2": {},
     "part3": {},
-    "users": {
-        "7630251636": {
-            "name": "Javohir Jumayev",
-            "phone": "+998939411809",
-            "username": "Jumayev_Javohir"
-        },
-        "6678241700": {
-            "name": "\ud83e\udd8b Jumayeva \ud83e\udd8b",
-            "phone": "998972971411",
-            "username": "Jumayeva_11"
-        },
-        "6603311112": {
-            "name": "...",
-            "phone": "998997661411",
-            "username": "Akula_1406"
-        },
-        "7478971002": {
-            "name": "\ud83d\udda4",
-            "phone": "998880851411",
-            "username": null
-        }
-    }
+    "users": {}
 }
